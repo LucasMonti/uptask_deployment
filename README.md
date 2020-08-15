@@ -4,14 +4,14 @@ UpTask es un proyecto realizado con NodeJS. <br/>
 Tiene la funcionalidad de gestionar proyectos y tareas.
 
 
-## Installation
+## Instalación
 
 ```bash
 npm install
 ```
 
 
-## Usage 
+## Variables de Entorno
 
 Configurar base de datos
 
@@ -22,6 +22,6 @@ BD_HOST= Host<br/>
 BD_PORT= Puerto<br/>
 
 
-## Link Heroku
+## Demo
 
-https://dashboard.heroku.com/apps/young-waters-21424
+https://young-waters-21424.herokuapp.com/
