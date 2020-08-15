@@ -15,11 +15,11 @@ npm install
 
 Configurar base de datos
 
-BD_NOMBRE=uptasknode<br/>
-BD_USER=root<br/>
-BD_PASS=7195marea<br/>
-BD_HOST=127.0.0.1<br/>
-BD_PORT=3306<br/>
+BD_NOMBRE= Nombre del proyecto<br/>
+BD_USER= Usuario de base de datos<br/>
+BD_PASS= Password de base de datos<br/>
+BD_HOST= Host<br/>
+BD_PORT= Puerto<br/>
 
 
 ## Link Heroku
